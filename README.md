@@ -67,8 +67,11 @@ Note: Duplicate employees are not allowed.
 Running the Program
 
 Ensure that Python is installed on your system.
+
 You can download it for free from this link https://www.python.org/downloads/
+
 Run the program by executing the script in the command promt (terminal):
-python payroll_system_file_handling.py
+
+python payroll_system_file_handling.py or py payroll_system_file_handling.py
 
 Follow the on-screen instructions to interact with the Payroll System.
