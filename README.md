@@ -60,14 +60,18 @@ After adding employees, quit salaries menu with option 0, and in the Action Menu
 
 5. Printing Payroll:
 
-By selection option 4, the program, will display the payroll informationk for each employee.
+By selection option 4, the program, will display the payroll information for each employee.
 
 Note: Duplicate employees are not allowed.
 
 Running the Program
 
 Ensure that Python is installed on your system.
+
+You can download it for free from this link https://www.python.org/downloads/
+
 Run the program by executing the script in the command promt (terminal):
+
 python payroll_system_file_handling.py
 
 Follow the on-screen instructions to interact with the Payroll System.
