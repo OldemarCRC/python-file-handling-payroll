@@ -60,7 +60,7 @@ After adding employees, quit salaries menu with option 0, and in the Action Menu
 
 5. Printing Payroll:
 
-By selection option 4, the program, will display the payroll informationk for each employee.
+By selection option 4, the program, will display the payroll information for each employee.
 
 Note: Duplicate employees are not allowed.
 
